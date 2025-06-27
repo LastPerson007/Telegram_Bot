@@ -39,7 +39,7 @@ A Telegram bot designed to help group members submit requests for movies and ser
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/LastPerson007/Telegram_Bot.git
+   git clone https://github.com/LastPerson07/Telegram_Bot.git
    cd Telegram_Bot
 ````
 
@@ -143,7 +143,7 @@ If you have ideas or find bugs, feel free to:
 
 ### Repository Link:
 
-[Telegram\_Bot by LastPerson007](https://github.com/LastPerson007/Telegram_Bot)
+[Telegram\_Bot by LastPerson007](https://github.com/LastPerson07/Telegram_Bot)
 
 ---
 
